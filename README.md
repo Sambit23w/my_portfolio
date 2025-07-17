@@ -22,7 +22,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 ### 1. Clone the Repo
 
 ```bash
-git clone []
+git clone [https://github.com/Sambit23w/my_portfolio.git]
 cd your-repo-name
 ````
 
